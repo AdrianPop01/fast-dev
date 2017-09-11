@@ -1,2 +1,2 @@
 # fast-dev
-# fast-dev Learning Bootstrap
+Learning Bootstrap
